@@ -1,9 +1,5 @@
 hub DCM
-
 shortLabel UMC DCMxNormal Enhancers
-
 longLabel UMC DCMxNormal Enhancers Track Hub
-
 genomesFile genomes.txt
-
 email D.Hemerich@umcutrecht.nl
